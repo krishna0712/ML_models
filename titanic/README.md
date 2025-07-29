@@ -63,7 +63,7 @@ accuracy                           0.99       179
 - Checked correlation (optional)
 
 ### 5. 🧪 Train-Test Split
-```python
+```python```
 from sklearn.model_selection import train_test_split
 
 X_train, X_test, y_train, y_test = train_test_split(
@@ -74,6 +74,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 
 -Trained a Random Forest Classifier, known for its robustness and ability to handle feature interactions.
 -Evaluated the model using accuracy score, confusion matrix, and classification report.
+
 
 ### 7️⃣ Final Results and Conclusion
   The model showed excellent generalization and minimal overfitting.
