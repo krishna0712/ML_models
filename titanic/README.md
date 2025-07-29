@@ -80,7 +80,7 @@ X_train, X_test, y_train, y_test = train_test_split(
   The model showed excellent generalization and minimal overfitting.
   All features were engineered and preprocessed effectively.
   Demonstrated the power of simple models when paired with thoughtful data cleaning.
-
+---
 
 ### ✅ Manual Prediction Check:
 Sample predictions on the test set matched expected outcomes, confirming that the model behaves correctly beyond just scoring metrics.
